@@ -136,11 +136,6 @@ Features
 
 ✅ Responsive Design
 
-If you like my project
-
-My Other Projects
-🔗 Online Shopping System Advanced
-
 Connect with Me
 📧 Email: amangurauli@gmail.com
 
