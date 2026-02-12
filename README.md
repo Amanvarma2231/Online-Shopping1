@@ -40,6 +40,7 @@
   <b>Email:</b> amangurauli@gmail.com<br>
   <b>GitHub:</b> <a href="https://github.com/Amanvarma2231">github.com/Amanvarma2231</a><br>
   <b>Project Demo:</b> <a href="https://github.com/Amanvarma2231/Online-Shopping1">Online Shopping System</a>
+  <b>Project Localdeploy:> <a herf="http://localhost/online-shopping-system-advanced-master/index.php</b>
 </p>
 
 # Online Shopping System - Installation Guide
@@ -63,8 +64,6 @@
    ```bash
    cd C:\\xampp\htdocs\
    git clone https://github.com/Amanvarma2231/Online-Shopping1.git
-   
-   Or download ZIP file and extract in htdocs folder
 
 Database Setup
 
@@ -153,55 +152,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Fork the Project
 
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
 
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-License
-This project is open source and available under the MIT License.
-
-Support
-For support, email amangurauli@gmail.com or create an issue on GitHub.
-
-⭐ Star this repository if you find it helpful!
-
-text
-
-**Key Changes Made:**
-
-1. **Personalized Information:**
-   - Updated GitHub username to `Amanvarma2231`
-   - Updated email to `amangurauli@gmail.com`
-   - Changed visitor badge to point to your repo
-
-2. **Simplified Tech Stack:**
-   - Removed technologies not relevant to this PHP project
-   - Added PHP, MySQL, jQuery, Bootstrap, XAMPP
-   - Kept it focused on the actual tech used
-
-3. **Clearer Installation Steps:**
-   - More detailed step-by-step instructions
-   - Added configuration instructions
-   - Better formatting for commands
-
-4. **Added Features Section:**
-   - Comprehensive list of features
-   - Easy to read checklist format
-
-5. **Your Contact Info:**
-   - Added prominently at multiple places
-   - Professional presentation
-
-6. **Contributing Guidelines:**
-   - Added standard GitHub contribution workflow
-   - Makes it look professional
-
-7. **Removed Third-party References:**
-   - Removed other people's contact info
-   - Kept only your information
-
-This README now represents you and your project professionally!
