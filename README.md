@@ -40,7 +40,6 @@
   <b>Email:</b> amangurauli@gmail.com<br>
   <b>GitHub:</b> <a href="https://github.com/Amanvarma2231">github.com/Amanvarma2231</a><br>
   <b>Project Demo:</b> <a href="https://github.com/Amanvarma2231/Online-Shopping1">Online Shopping System</a>
-  <b>Project Localdeploy:> <a herf="http://localhost/online-shopping-system-advanced-master/index.php</b>
 </p>
 
 # Online Shopping System - Installation Guide
@@ -67,7 +66,7 @@
 
 Database Setup
 
-Open browser and go to http://localhost/phpmyadmin
+Open browser and go to http://localhost/online-shopping-system-advanced-master/index.php
 
 Click on "New" from left sidebar
 
