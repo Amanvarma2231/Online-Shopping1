@@ -137,7 +137,6 @@ Features
 ✅ Responsive Design
 
 If you like my project
-<a href="https://www.buymeacoffee.com/amanvarma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
 My Other Projects
 🔗 Online Shopping System Advanced
